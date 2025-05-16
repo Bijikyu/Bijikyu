@@ -1,2 +1,1 @@
-[![Express_Flask_JavaScript_HTML_CSS_Python_NodeJS_PostgreSQL_MongoDB_ReactJS_](https://pimp-my-readme.webapp.io/pimp-my-readme/technology?technology=Express_Flask_JavaScript_HTML_CSS_Python_NodeJS_PostgreSQL_MongoDB_ReactJS_)](https://www.https://github.com/Bijikyu)
-
+[![JavaScript_HTML_CSS_Python_NodeJS_PostgreSQL_MongoDB_ReactJS_Express_Flask_Redis_Fast API](https://pimp-my-readme-next.vercel.app/api/technology?technology=JavaScript_HTML_CSS_Python_NodeJS_PostgreSQL_MongoDB_ReactJS_Express_Flask_Redis_Fast%20API)]
