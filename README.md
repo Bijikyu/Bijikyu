@@ -1,1 +1,1 @@
-[![JavaScript_HTML_CSS_Python_NodeJS_PostgreSQL_MongoDB_ReactJS_Express_Flask_Redis_Fast API](https://pimp-my-readme-next.vercel.app/api/technology?technology=JavaScript_HTML_CSS_Python_NodeJS_PostgreSQL_MongoDB_ReactJS_Express_Flask_Redis_Fast%20API)
+![JavaScript_HTML_CSS_Python_NodeJS_PostgreSQL_MongoDB_ReactJS_Express_Flask_Redis_Fast API](https://pimp-my-readme-next.vercel.app/api/technology?technology=JavaScript_HTML_CSS_Python_NodeJS_PostgreSQL_MongoDB_ReactJS_Express_Flask_Redis_Fast%20API)
