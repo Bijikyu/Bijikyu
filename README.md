@@ -8,6 +8,6 @@ interfaces with reliable back-end services.
 
 ## Get in Touch
 Reach me by [email](bgquezada@gmail.com) or connect on
-[LinkedIn]([https://www.linkedin.com/in/bijikyu/](https://www.linkedin.com/in/briangquezada/)).
+[LinkedIn](https://www.linkedin.com/in/briangquezada/).
 
 [badge-image]: https://pimp-my-readme-next.vercel.app/api/technology?technology=JavaScript_HTML_CSS_Python_NodeJS_PostgreSQL_MongoDB_ReactJS_Express_Flask_Redis_Fast%20API
