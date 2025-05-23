@@ -1,17 +1,12 @@
 # Q
-
-## Introduction
-
 Full-stack developer focused on crafting efficient web
 applications. I enjoy building modern solutions that blend user-friendly
 interfaces with reliable back-end services.
 
 ## Skills
-
 ![Badge showing technologies][badge-image]
 
 ## Get in Touch
-
 Reach me by [email](bgquezada@gmail.com) or connect on
 [LinkedIn]([https://www.linkedin.com/in/bijikyu/](https://www.linkedin.com/in/briangquezada/)).
 
