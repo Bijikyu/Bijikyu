@@ -1,7 +1,6 @@
 # Q
 Full-stack developer focused on crafting efficient web
-applications. I enjoy building modern solutions that blend user-friendly
-interfaces with reliable back-end services.
+applications and developer tools for an AI-first world. 
 
 ## Skills
 ![Badge showing technologies][badge-image]
