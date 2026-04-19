@@ -6,6 +6,8 @@ interfaces with reliable back-end services.
 ## Skills
 ![Badge showing technologies][badge-image]
 
+[NPM] (https://www.npmjs.com/~bijikyu)
+
 ## Get in Touch
 Reach me by [email](bgquezada@gmail.com) or connect on
 [LinkedIn](https://www.linkedin.com/in/briangquezada/).
