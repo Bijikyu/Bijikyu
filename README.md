@@ -6,6 +6,7 @@ interfaces with reliable back-end services.
 ## Skills
 ![Badge showing technologies][badge-image]
 
+## Packages
 [NPM](https://www.npmjs.com/~bijikyu)
 
 ## Get in Touch
